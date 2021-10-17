@@ -42,7 +42,7 @@
 					}					
 		    else
 		     	{ 
-			        echo "Input should be a number";  
+			        echo "Input should be a numbe";  
 			  	} 
 		    }   
 ?>  
